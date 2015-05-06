@@ -1,0 +1,29 @@
+- use aurelia!
+- project build with first express-generator then >yo aurelia
+
+Configs:
+- running the client: go into /client and >gulp watch
+
+general:
+- items in suggestion are local to user
+- db client-side/server-side same orm (monogodb, ...)
+
+features:
+- addvertisment food-travel
+- wine + cheese
+- receipt wanted
+- rating system -> become a star cook
+- comment system under receipts
+- print cookbook (pdf), download/upload to/from mobile-app
+- manage your cook-book
+- meet-to-cook
+- online cook-courses
+- what-to-eat-today
+- app to echange tips + receipts
+- phone-gap based app 50cent
+- option which flags receipt to be included in public book
+- best-of leckeru -book from select top-rated receipts
+- question page for (spices, ...)
+- mobile-app 'cook-instructions', which helps during cooking
+- categories: coffee, chocolate, bread, pizza, ...
+- receipt-story 'tell a story'
